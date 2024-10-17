@@ -36,3 +36,4 @@ You can find the corresponding DOM manipulation script in the script.js file.
 
 Hosted Version:------------
 You can view the live version of the project here. Ensure the link is functional to view the hosted project directly in your browser.
+https://pradnyakhope.github.io/MERN-STACK-FS-22/
