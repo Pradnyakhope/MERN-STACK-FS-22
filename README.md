@@ -1,6 +1,6 @@
 Project Title: DOM Manipulation - Styling a Div
 
-Project Description
+Project Description:
 This project demonstrates how to manipulate the appearance of a div element using the Document Object Model (DOM). Specifically, we change the color, background color, margin, padding, font size, font weight, height, and width of a div dynamically using JavaScript. The aim is to practice DOM manipulation techniques while maintaining consistent user interface (UI) styling.
 
 
